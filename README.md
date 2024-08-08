@@ -5,7 +5,7 @@
 
 3. Add a simple JavaScript program to create a file for the same. For each one, the programme should be different.
 
-4. There will be one Main. js file. You have to output your name like Hii. My name is ABC.
+4. There will be one Main. js file. You have to output your name like Hii. My name is Tech.
 
 5. Add, Commit, and Push Changes
 
