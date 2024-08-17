@@ -1,4 +1,3 @@
-
 class Main {
     static name() {
    
@@ -23,12 +22,23 @@ class Main {
 	let b = 6;
 	console.log("multi is "+(a*b));
     }
+  
+      static mynameMessage() {
+       
+        console.log("hello purva this side");
+
+    }
+
+  static subtractNum( x, y){
+  console.log(x-y);
+  }
 }
 
 Main.name();
 Main.multi();
 
-
 Main.printName();
 Main.addNum(3,4);
 
+Main.mynameMessage();
+Main.subtractNum(5,6);
