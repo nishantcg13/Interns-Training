@@ -7,11 +7,9 @@
 
     }
 
-
-Main.mynameMessage();
- static multiplyNum( let x, let y){
-  console.log(x*y);
+ static subtractNum( x, y){
+  console.log(x-y);
   }
  }
 Main.mynameMessage();
-Main.multiplyNum(5,6);
+Main.subtractNum(5,6);
