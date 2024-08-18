@@ -1,7 +1,11 @@
 class Main {
-   static hello(){
-	console.log("Hello");
-}
+
+    static printName() {
+        
+        console.log("Hii. My name is Smitesh");
+        
+    }
 
 }
-Main.hello();
+
+Main.printName();
