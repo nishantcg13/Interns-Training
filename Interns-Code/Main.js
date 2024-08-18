@@ -10,7 +10,7 @@ class Main {
 	console.log("Hello");
    console.log("My name is Tejas")
 }
-
 }
 
 Main.printName();
+Main.hello();
