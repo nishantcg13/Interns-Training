@@ -1,6 +1,6 @@
 class Main {
     static printMessage() {
-        console.log("Welcome to TechLathe IT Solutions");
+        console.log("Hii. My name is Yash ");
 
     }
 }
