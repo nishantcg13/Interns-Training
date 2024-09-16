@@ -1,0 +1,6 @@
+class Main{
+static divNum(x,y){
+console.log("Division = "+(x/y)); 
+}
+}
+ Main.divNum(27,3)
